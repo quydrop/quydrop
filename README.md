@@ -12,4 +12,4 @@ Facebook: https://www.facebook.com/dquy.2205/
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=quydrop&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quydrop&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quydrop&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)]
